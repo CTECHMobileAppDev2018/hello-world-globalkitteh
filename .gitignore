@@ -1,3 +1,6 @@
+# Dr. Java backup files
+*.java~
+
 # Compiled class file
 *.class
 
